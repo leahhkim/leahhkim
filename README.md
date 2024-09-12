@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi! My name is Leah Kim and I attend the University of Virginia.
 <!--
 **leahhkim/leahhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
